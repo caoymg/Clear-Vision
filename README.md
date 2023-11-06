@@ -92,4 +92,6 @@ Stage 2: Cloud RemovalThe subsequent stage involves two inputs: the generated cl
 
 **Reference**
 
-[1] Stucker C, Sainte Fare Garnot V, Schindler K. U-TILISE: A Sequence-to-sequence Model for Cloud Removal in Optical Satellite Time Series[J]. arXiv e-prints, 2023: arXiv: 2305.13277.[2] Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18. Springer International Publishing, 2015: 234-241.
+[1] Stucker C, Sainte Fare Garnot V, Schindler K. U-TILISE: A Sequence-to-sequence Model for Cloud Removal in Optical Satellite Time Series[J]. arXiv e-prints, 2023: arXiv: 2305.13277.
+
+[2] Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18. Springer International Publishing, 2015: 234-241.
