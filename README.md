@@ -1,11 +1,7 @@
 # Clear Vision
  A end-to-end system of cloud removal for satellite images.
 
-
-
-**Clear Vision Documentation**
-
-
+![img](https://lh7-us.googleusercontent.com/dCm-_fN2MPtGoxk96NqL2cxbYmD9k410DDUcKh2IW6ae_S4G5ZtugeeAZM-ShT8YDjEvO_Capmjvun2A03imR6Q2OAKKtwrV3mky0HIIa43mTgRgQpxjH0ecXFYLWg-w6S3x09UJOCLyOnAomaq9fL8)
 
 
 
