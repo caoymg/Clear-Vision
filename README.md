@@ -10,9 +10,14 @@ Yiming CAO
 
 
 **Outline**
+
 **1. System Usage Guidelines**
 
+
+
 **2. System Architecture**
+
+
 
 **3. File Structure**
 
@@ -21,12 +26,18 @@ Yiming CAO
 
 
 **1. System Usage Guidelines**
+
+
+
 **1.1 Environment requirements**
 The system operates efficiently on the Microsoft Azure Linux (ubuntu 20.04) Virtual Machine with one GPU Tesla T4 (16384 MB). To ensure the optimal functioning of the system, the following software versions are recommended:
 earthnet==0.3.9gradio==3.41.2gradio-client==0.5.0matplotlib==3.7.2numpy==1.24.4pandas==2.0.3torch==2.0.1torchvision==0.15.2Python version 3.8.10
 To start the system you can simply run “run_gradio.py” in codes/Clear_Vision.
+
 **1.2 Input Requirements**
 For seamless operation of the AI-based system, adhere to the following input specifications:Spatial Satellite Image: RGB Images with 128 x 128 pixels. The image utilized for training and testing possesses dimensions of 128x128 pixels with a resolution of 20 meters. It is strongly recommended that the input images maintain this resolution (Inadequate input image quality, such as blurring after resizing one small resolution image, may render the cloud mask categorizing regular scenes as entirely cloud-covered, impacting model performance).Sequence Length: The length of the input image sequence should fall within the range of 5 to 10 images.Cloud Coverage: To attain optimal system performance, refrain from having clouds present in more than 50% of the images within the provided time sequence.Time Interval: There is no strict constraint on the time interval between images. However, it is imperative that images are arranged in the correct order. For enhanced system efficiency, it is recommended to maintain a relatively smaller time interval between consecutive images.
+
+
 
 **1.3 System Performance Evaluation**
 The performance metrics of the system are as follows:
